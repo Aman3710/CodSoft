@@ -1,0 +1,93 @@
+
+/*height of main screen*/
+.min-screen{
+    min-height:78svh;
+    background-color: rgb(220, 247, 255);
+}
+
+/* Apply button commonly used*/
+button{
+    background-color: #20bde4;
+    color: rgb(10, 5, 5);
+    text-decoration: none;
+    border: 2px solid transparent;
+    font-weight: bold;
+    padding: 15px 65px;
+    border-radius: 30px;
+    transition: .4s;
+    font-size: 1.3em;
+}
+/* Apply button hover */
+button:hover{
+    background-color: transparent;
+    border: 2px solid rgb(28, 28, 66);
+    cursor: pointer;
+}
+
+
+/* who we are screen*/
+.who{
+    min-height: 75svh;
+}
+
+/* provide screen*/
+.provide{
+    min-height: 95svh;
+    background-color: rgb(235, 238, 238);
+}
+
+/* e-commerce development screen*/
+.e-commerce{
+    min-height: 55svh;
+}
+
+/* need section screen */
+.need{
+    min-height: 65svh;
+}
+
+/* internship section screen */
+.internship{
+    min-height: 200svh;
+}
+
+/* grow section screen */
+.grow{
+    min-height: 63svh;
+    background-color: rgb(235, 238, 238);
+}
+
+/*Unlock Section Screen*/
+.unlock{
+    min-height: 78svh;
+}
+
+/*Collab Section Screen*/
+.Collab{
+    min-height: 93svh;
+    background-color: rgb(220, 214, 224);
+}
+
+/*Potential Section Screen*/
+.potential{
+    min-height: 60svh;
+    background-color: rgb(173, 147, 147);
+}
+
+/*Touch Section Screen*/
+.touch{
+    min-height: 100svh;
+}
+
+/*Last Section Screen*/
+.last{
+    min-height: 72svh;
+    background-color: rgb(220, 214, 224);
+}
+
+
+/*Last Section Screen*/
+.footer{
+    min-height: 8svh;
+    background-color: rgb(220, 214, 224);
+}
